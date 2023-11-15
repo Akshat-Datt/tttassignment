@@ -1,0 +1,103 @@
+@media (max-width: 480px){
+    .cover{
+        height: 200px;
+        width: 100vw;
+        object-fit: cover;
+    }
+    .profile{
+        height: 120px;
+        border-radius: 50%;
+        position: absolute;
+        border: 1px solid;
+        margin-top: 165px;
+        margin-left: 9vw;
+        object-fit: cover;
+    }
+    .proCon{
+        position: absolute;
+    }
+    .essentials{
+        display: flex;
+        flex-direction: row;
+        margin-left: 42vw;
+        margin-top: 1.5vw;
+    }
+    .name{
+        margin-bottom: 1.5vh;
+    }
+    .numbers{
+        display: flex;
+        flex-direction: row;
+        margin-left: 42vw;
+    }
+    .number{
+        border: .5px solid;
+        border-radius: 12%;
+        margin-right: 4vw;
+        width: 13vw;
+        margin-bottom: .5vh;
+    }
+    .tick{
+        color: rgb(145, 215, 40);
+        margin-top: .5vh;
+        margin-left: 1vw;
+    }
+    .labels{
+        display: flex;
+        flex-direction: row;
+        margin-left: 42vw;
+    }
+    .label{
+        font-size: .6rem;
+        margin-left: 1.3vw;
+        margin-right: 5.7vw;
+    }
+    .about{
+        text-align: left;
+        margin-left: 9vw;
+        margin-bottom: 0vh;
+    }
+    a{
+        font-size: .8rem;
+        margin-right: 25vw;
+    }
+    .posts{
+        margin-bottom: 0vh;
+        text-align: left;
+        padding: 1.5vw;
+        font-weight: bold;
+        color: rgb(0, 157, 255);
+    }
+    .contain{
+        width: 17vw;
+        border-top: 1px solid;
+        border-right: 1px solid;
+    }
+    .stats{
+        margin-bottom: 4vh;
+        display: flex;
+        flex-direction: row;
+        margin-left: 9vw;
+        margin-top: 1vh;
+    }
+    .nos{
+        margin-right: 2vw;
+        margin-left: 2vw;
+    }
+    .star{
+        color: skyblue;
+        margin-top: .7vh;
+    }
+    .like{
+        color: orange;
+        margin-top: .7vh;
+    }
+    .heart{
+        color: red;
+        margin-top: .7vh;
+    }
+    .views{
+        color: gray;
+        margin-top: .7vh;
+    }
+}

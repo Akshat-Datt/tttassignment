@@ -1,0 +1,41 @@
+.navbar{
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+}
+.logo{
+    width: 3vw;
+}
+.vl{
+    border-left: 1px solid rgb(236, 213, 8);
+    height: 3vw;
+}
+.stories{
+    color: white;
+}
+
+@media (max-width: 480px){
+    .logo{
+        width: 12vw;
+        height: 7vh;
+        margin: 2vw;
+        margin-left: 6vw;
+    }
+    .vl{
+        height: 10vw;
+        margin-top: 3vw;
+    }
+    .stories{
+        margin-top: 5vw;
+        margin-right: 30vw;
+        margin-left: 1vw;
+        font-weight: bold;
+    }
+    .courses{
+        padding: 1vw;
+        font-weight: bold;
+        height: 7vh;
+        margin-top: 2vw;
+        margin-right: 6vw;
+    }
+} 
