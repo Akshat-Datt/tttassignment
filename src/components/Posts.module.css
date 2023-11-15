@@ -44,7 +44,7 @@
     }
 }
 
-@media(max-width: 380px){
+@media(max-width: 420px){
     .detailsText{
         font-size: .6rem;
         margin-right: 7vw;
