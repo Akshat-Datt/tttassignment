@@ -2,3 +2,8 @@
     margin-top: 0vh;
     margin-left: 17vw;
 }
+@media(max-width:380px) {
+    .break{
+        margin-left: 20vw;
+    }
+}

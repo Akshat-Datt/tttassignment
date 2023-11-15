@@ -43,3 +43,20 @@
         margin-left: 9vw;
     }
 }
+
+@media(max-width: 380px){
+    .detailsText{
+        font-size: .6rem;
+        margin-right: 7vw;
+    }
+    .details{
+        font-size: .6rem;
+    }
+    .text{
+        font-size: .5rem;
+        margin-top: .5vw;
+    }
+    h4{
+        font-weight: bold;
+    }
+}

@@ -59,7 +59,6 @@
     }
     a{
         font-size: .8rem;
-        margin-right: 25vw;
     }
     .posts{
         margin-bottom: 0vh;
@@ -99,5 +98,14 @@
     .views{
         color: gray;
         margin-top: .7vh;
+    }
+}
+@media(max-width: 380px){
+    .profile{
+        height: 100px;
+        margin-top: 180px;
+    }
+    .contain{
+        width: 20vw;
     }
 }

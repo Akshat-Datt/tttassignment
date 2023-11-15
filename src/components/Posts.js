@@ -9,7 +9,7 @@ function Posts() {
       {posts.map((post)=>(
           <div>
             <div className={style.head}>
-              <h2 className={style.title}>{post.title}</h2>
+              <h4 className={style.title}>{post.title}</h4>
               <BiSolidLike className={style.like}/>
             </div>
             <p className={style.content}>{post.content}</p>
