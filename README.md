@@ -15,7 +15,7 @@ Profile data has bee hard coded in JSON format in two files
 * Data.js - Profile data.
 * Posts.js - Containing all the posts
 
-[Netlify Link](https://joyful-profiterole-1e0c77.netlify.app/)
+Hosted for review on mobile devices [Netlify Link](https://joyful-profiterole-1e0c77.netlify.app/)
 
 
 
